@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "CARAVAN",
+=======
+  "name": "sample_app",
+>>>>>>> origin/main
   "private": true,
   "dependencies": {}
 }
